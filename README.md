@@ -55,8 +55,9 @@ mejorar la seguridad, el rendimiento y la organización del tráfico.
 
 ## Contenido del repositorio
 
-- `documentacion.docx` → Documentación completa del proyecto
-- `presentacion.pptx` → Presentación del proyecto
+- `Proyecto_Inter_Modular_Redes_Locales_SMR1_David_Tío_Vallejo_documentación` → Documentación completa del proyecto
+- `Proyecto_Inter_Modular_Redes_Locales_David_Tío_Vallejo_SMR1_Presentacion.pptx` → Presentación del proyecto en formato .pptx
+- `Proyecto_Inter_Modular_Redes_Locales_David_Tío_Vallejo_SMR1_Presentacion`  → Presentación del proyecto en formato .pdf
 - `red.pkt` → Simulación en Cisco Packet Tracer
 
 ---
