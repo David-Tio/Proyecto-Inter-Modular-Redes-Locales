@@ -44,12 +44,12 @@ mejorar la seguridad, el rendimiento y la organización del tráfico.
 
 ## Servicios de red
 
-- **DHCP:** Configurado en el switch central para todas las VLANs excepto la 70
-- **Inter-VLAN routing:** Gestionado por el switch de capa 3
-- **ACL:** BLOQUEO_VLAN70 para aislar la zona de invitados
-- **NAT:** Configurado en el router para salida a internet
-- **Compartición de archivos:** Mediante los servidores de la VLAN 80
-- **Compartición de impresoras:** Una impresora por departamento con IP estática
+- **DHCP:** Configurado en el switch central para todas las VLANs.
+- **Inter-VLAN routing:** Gestionado por el switch de capa 3.
+- **ACL:** BLOQUEO_VLAN70 para aislar la zona de invitados.
+- **NAT:** Configurado en el router para salida a internet.
+- **Compartición de archivos:** Mediante los servidores de la VLAN 80.
+- **Compartición de impresoras:** Una impresora por departamento con IP estática.
 
 ---
 
@@ -65,7 +65,7 @@ mejorar la seguridad, el rendimiento y la organización del tráfico.
 ## Simulación
 
 La red ha sido simulada completamente en **Cisco Packet Tracer**, verificando:
-- Comunicación entre todas las VLANs internas
-- Aislamiento correcto de la VLAN 70
-- Asignación automática de IPs por DHCP
-- Inter-VLAN routing funcionando correctamente
+- Comunicación entre todas las VLANs internas.
+- Aislamiento correcto de la VLAN 70.
+- Asignación automática de IPs por DHCP.
+- Inter-VLAN routing funcionando correctamente.
